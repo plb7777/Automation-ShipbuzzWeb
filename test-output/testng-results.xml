@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-12T04:14:08Z" name="Default suite" finished-at="2023-01-12T04:14:08Z" duration-ms="85">
+    <groups>
+    </groups>
+    <test started-at="2023-01-12T04:14:08Z" name="Default test" finished-at="2023-01-12T04:14:08Z" duration-ms="85">
+      <class name="com.w2a.base.MyDemoTest">
+        <test-method is-config="true" signature="myBeforeSuite()[pri:0, instance:com.w2a.base.MyDemoTest@768fc0f2]" started-at="2023-01-12T09:44:08Z" name="myBeforeSuite" finished-at="2023-01-12T09:44:08Z" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myBeforeSuite -->
+        <test-method is-config="true" signature="myBeforeTest()[pri:0, instance:com.w2a.base.MyDemoTest@768fc0f2]" started-at="2023-01-12T09:44:08Z" name="myBeforeTest" finished-at="2023-01-12T09:44:08Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myBeforeTest -->
+        <test-method is-config="true" signature="myBeforeClass()[pri:0, instance:com.w2a.base.MyDemoTest@768fc0f2]" started-at="2023-01-12T09:44:08Z" name="myBeforeClass" finished-at="2023-01-12T09:44:08Z" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myBeforeClass -->
+        <test-method is-config="true" signature="myBeforeMethod()[pri:0, instance:com.w2a.base.MyDemoTest@768fc0f2]" started-at="2023-01-12T09:44:08Z" name="myBeforeMethod" finished-at="2023-01-12T09:44:08Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myBeforeMethod -->
+        <test-method signature="myDemoTest()[pri:0, instance:com.w2a.base.MyDemoTest@768fc0f2]" started-at="2023-01-12T09:44:08Z" name="myDemoTest" finished-at="2023-01-12T09:44:08Z" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myDemoTest -->
+        <test-method is-config="true" signature="myAfterMethod()[pri:0, instance:com.w2a.base.MyDemoTest@768fc0f2]" started-at="2023-01-12T09:44:08Z" name="myAfterMethod" finished-at="2023-01-12T09:44:08Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAfterMethod -->
+        <test-method is-config="true" signature="myAfterClass()[pri:0, instance:com.w2a.base.MyDemoTest@768fc0f2]" started-at="2023-01-12T09:44:08Z" name="myAfterClass" finished-at="2023-01-12T09:44:08Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAfterClass -->
+        <test-method is-config="true" signature="myAfterTest()[pri:0, instance:com.w2a.base.MyDemoTest@768fc0f2]" started-at="2023-01-12T09:44:08Z" name="myAfterTest" finished-at="2023-01-12T09:44:08Z" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAfterTest -->
+        <test-method is-config="true" signature="myAfterSuite()[pri:0, instance:com.w2a.base.MyDemoTest@768fc0f2]" started-at="2023-01-12T09:44:09Z" name="myAfterSuite" finished-at="2023-01-12T09:44:09Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAfterSuite -->
+      </class> <!-- com.w2a.base.MyDemoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
