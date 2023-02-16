@@ -113,9 +113,7 @@
 			<version>3.6</version>
 		</dependency>
 
-
 	</dependencies>
-
 
 	<build>
 		<plugins>
@@ -137,14 +135,11 @@
 					<testFailureIgnore> false </testFailureIgnore>
 					<suiteXmlFiles>
 						<suiteXmlFile>src/test/resources/runner/testng.xml</suiteXmlFile>
-
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
 
-
 		</plugins>
-
 
 		<testResources>
 			<testResource>
@@ -154,7 +149,6 @@
 				</includes>
 			</testResource>
 		</testResources>
-
 
 	</build>
 
