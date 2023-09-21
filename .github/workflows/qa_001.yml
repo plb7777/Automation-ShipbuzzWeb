@@ -1,0 +1,9 @@
+on: [push]
+name: Shipbuzz
+jobs:
+  check-bats-version:
+    runs-on: windows-latest
+    
+    
+    
+    
